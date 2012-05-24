@@ -5,13 +5,13 @@ Donate link: http://www.daext.com/soccer-field/
 License: GPLv2 or later
 Requires at least: 2.8
 Tested up to: 3.3.2
-Stable tag: 1.00
+Stable tag: 1.01
 
-When called this plugin shows a Soccer Field inside your post. See the plugin page for more details on the plugin.
+When called this plugin shows a Soccer Field inside your post.
 
 == Description ==
 
-When called this plugin shows a Soccer Field inside your post. See the plugin page for more details on the plugin.
+When called this plugin shows a Soccer Field inside your post.
 
 Plugin Features:
 
