@@ -3,7 +3,7 @@
 Plugin Name: Soccer Field
 Plugin URI: http://www.daext.com/soccer-field/
 Description: When called this plugin shows a Soccer Field inside your post.
-Version: 1.02
+Version: 1.00
 Author: Danilo Andreini
 Author URI: http://www.daext.com
 License: GPLv2 or later
