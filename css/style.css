@@ -1,0 +1,50 @@
+.soccer-field{
+	background: url("../img/soccer-field.png") repeat scroll 0 0;
+	width: 500px;
+	height:667px;
+	margin: 20px auto;
+	position: relative;
+}
+
+.sf-team1{position: absolute; text-align: center; width: 100px; color: red; font-size: 10px; font-family: verdana,arial,sans-serif;}
+.sf-team2{position: absolute; text-align: center; width: 100px; color: blue; font-size: 10px; font-family: verdana,arial,sans-serif;}
+
+.sf-p1a{left: 200px; top: 50px;}
+.sf-p2a{left: 100px; top: 135px;}
+.sf-p3a{left: 200px; top: 135px;}
+.sf-p4a{left: 300px; top: 135px;}
+.sf-p5a{left: 50px; top: 220px;}
+.sf-p6a{left: 150px; top: 220px;}
+.sf-p7a{left: 250px; top: 220px;}
+.sf-p8a{left: 350px; top: 220px;}
+.sf-p9a{left: 100px; top: 305px;}
+.sf-p10a{left: 200px; top: 305px;}
+.sf-p11a{left: 300px; top: 305px;}
+
+.sf-p1b{left: 200px; bottom: 50px;}
+.sf-p2b{left: 100px; bottom: 135px;}
+.sf-p3b{left: 200px; bottom: 135px;}
+.sf-p4b{left: 300px; bottom: 135px;}
+.sf-p5b{left: 50px; bottom: 220px;}
+.sf-p6b{left: 150px; bottom: 220px;}
+.sf-p7b{left: 250px; bottom: 220px;}
+.sf-p8b{left: 350px; bottom: 220px;}
+.sf-p9b{left: 100px; bottom: 305px;}
+.sf-p10b{left: 200px; bottom: 305px;}
+.sf-p11b{left: 300px; bottom: 305px;}
+
+.sf-saved{color: #D54E21;font-weight: bold;}
+.sf-code{display: block;margin: 10px 0;}
+
+/* EASY FLOATING BOX */
+.clearfix:after{
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+}
+/* Hide from IE-mac /*/
+* html .clearfix{1%;}
+/* End hide from IE-mac */
+/* EASY FLOATING BOX - END */
