@@ -5,7 +5,7 @@ Donate link: http://www.danycode.com/posts/view/soccer_field
 License: GPLv2 or later
 Requires at least: 2.8
 Tested up to: 3.3.2
-Stable tag: 1.02
+Stable tag: 1.03
 
 When called this plugin shows a Soccer Field inside your post.
 

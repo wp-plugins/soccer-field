@@ -3,7 +3,7 @@
 Plugin Name: Soccer Field
 Plugin URI: http://www.danycode.com/posts/view/soccer_field
 Description: When called this plugin shows a Soccer Field inside your post.
-Version: 1.02
+Version: 1.03
 Author: Danilo Andreini
 Author URI: http://www.danycode.com
 License: GPLv2 or later
@@ -80,7 +80,7 @@ function soccer_field_options() {
 	echo '<h2>How to use Soccer Field</h2>';
 	echo 'Embed a soccer field in the content of the posts using the following code: (This example refer to ITALY vs FRANCE world cup 2006)';
 	echo "<code class='sf-code'>[soccer p1a='Gianluigi Buffon' p2a='Gianluca Zambrotta' p3a='Fabio Cannavaro' p4a='Marco Materazzi' p5a='Fabio Grosso' p6a='Gennaro Gattuso' p7a='Andrea Pirlo' p8a='Mauro Camoranesi' p9a='Simone Perrotta' p10a='Francesco Totti' p11a='Luca Toni' p1b='Fabien Barthez' p2b='Willy Sagnol' p3b='Lilian Thuram' p4b='William Gallas' p5b='Eric Abidal' p6b='Patrick Vieira' p7b='Claude Makelele' p8b='Franck Ribery' p9b='inedine Zidane' p10b='Florent Malouda' p11b='Thierry Henry']</code>";
-	echo '<p>Ask for support at <a target="_blank" href="http://www.daext.com/soccer-field">Soccer Field Official Page</a></p>';	
+	echo '<p>Ask for support at <a target="_blank" href="http://www.danycode.com/posts/view/soccer_field">Soccer Field Official Page</a></p>';	
 }
 function display_field( $atts ) {
 	extract( shortcode_atts( array(
