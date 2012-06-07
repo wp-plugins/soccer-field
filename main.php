@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Soccer Field
-Plugin URI: http://www.daext.com/soccer-field/
+Plugin URI: http://www.danycode.com/posts/view/soccer_field
 Description: When called this plugin shows a Soccer Field inside your post.
 Version: 1.02
 Author: Danilo Andreini
-Author URI: http://www.daext.com
+Author URI: http://www.danycode.com
 License: GPLv2 or later
 */
 
