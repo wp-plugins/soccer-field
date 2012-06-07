@@ -1,11 +1,11 @@
 === Soccer Field ===
 Contributors: artasdog
 Tags: soccer,football,field,soccer field,field soccer,pitch,soccer pitch,pitch soccer,formation,soccer formation,formation soccer,football formation,formation football,soccer strategy,strategy,football strategy
-Donate link: http://www.daext.com/soccer-field/
+Donate link: http://www.danycode.com/soccer_field/
 License: GPLv2 or later
 Requires at least: 2.8
 Tested up to: 3.3.2
-Stable tag: trunk
+Stable tag: 1.01
 
 When called this plugin shows a Soccer Field inside your post.
 
