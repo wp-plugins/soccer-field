@@ -1,5 +1,5 @@
 === Soccer Field ===
-Contributors: artasdog
+Contributors: danycode
 Tags: soccer,football,field,soccer field,field soccer,pitch,soccer pitch,pitch soccer,formation,soccer formation,formation soccer,football formation,formation football,soccer strategy,strategy,football strategy
 Donate link: http://www.danycode.com/posts/view/soccer_field
 License: GPLv2 or later
