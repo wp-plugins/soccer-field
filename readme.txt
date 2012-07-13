@@ -1,7 +1,7 @@
 === Soccer Field ===
 Contributors: danycode
 Tags: soccer,football,field,soccer field,field soccer,pitch,soccer pitch,pitch soccer,formation,soccer formation,formation soccer,football formation,formation football,soccer strategy,strategy,football strategy
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W7TVDEGF5A8GQ
+Donate link: http://www.danycode.com/soccer-field/
 License: GPLv2 or later
 Requires at least: 2.8
 Tested up to: 3.3.2
@@ -12,6 +12,8 @@ When called this plugin shows a Soccer Field inside your post.
 == Description ==
 
 When called this plugin shows a Soccer Field inside your post.
+
+For more information, check out <a href="http://www.danycode.com/soccer-field/">Soccer Field</a>
 
 Plugin Features:
 
